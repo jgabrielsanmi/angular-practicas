@@ -1,0 +1,15 @@
+.nav-item {
+    display: flex;
+}
+
+.nav-item a {
+    padding: 0.5rem;
+    color: white;
+    background-color: #0000ff; /* Color de fondo de los elementos */
+    text-decoration: none;
+    margin-left: 0;
+}
+
+.nav-item a:first-child {
+    margin-right: auto; /* Mueve el primer elemento a la derecha */
+}

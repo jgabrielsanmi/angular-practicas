@@ -1,0 +1,7 @@
+<div class="nav">
+    <nav class="nav-item">
+        <a *ngFor="let route of routes" [routerLink]="[route.path]">
+            {{ route.title }}
+        </a>
+    </nav>
+</div>

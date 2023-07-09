@@ -1,0 +1,8 @@
+.footer-container{
+    background-color: white;
+    padding: 0.5rem;
+    gap: 0.5rem;
+    border-radius: 6px;
+    border: solid;
+    overflow: hidden;
+}

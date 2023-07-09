@@ -1,0 +1,14 @@
+.header-container {
+  background-color: white;
+  padding: 0.5rem;
+  gap: 0.5rem;
+  border-radius: 6px;
+  border: solid;
+  overflow: hidden;
+}
+
+.nav-container {
+  display: grid;
+  grid-template-columns: repeat(5);
+
+}

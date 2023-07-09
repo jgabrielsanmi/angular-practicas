@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    margin: 0;
+    padding: 2rem;
+    font-family: 'Proxima Nova Regular', 'Sans Serif', 'Roboto';
+    color: black;
+}
+
+a{
+    text-decoration: none;
+}
